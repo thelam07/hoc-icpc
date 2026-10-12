@@ -1,0 +1,6 @@
+# Chi theo doi ma nguon, bo qua file thuc thi sau khi bien dich (4A, 50A, ...)
+*
+!*/
+!*.cpp
+!*.md
+!.gitignore
